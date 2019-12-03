@@ -3,7 +3,7 @@
 var myOperator = "+";
 var myNumber1 = prompt("Geef een getal op");
 var myNumber2 = prompt("Geef een ander getal op");
-var resultaat;
+var resultaat; 
 
 if (myOperator == "+" ) {
 
